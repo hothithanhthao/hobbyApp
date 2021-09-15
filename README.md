@@ -7,7 +7,7 @@
 
 ## Setup
 
-To run this project, install it locally using npm:
+To run this project, install it locally using node:
 
 ```
 $ cd ../hobby-backend
